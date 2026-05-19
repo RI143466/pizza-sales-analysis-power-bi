@@ -10,7 +10,6 @@ The dashboard was built using Power BI and Python to generate business insights 
 ## Tools Used
 - Python
 - Power BI
-- Excel
 - Jupyter Notebook
 ---
 ## Dashboard Features
